@@ -15,7 +15,7 @@ import nyc.c4q.inclass1119.R;
 public class Fragment01 extends Fragment {
 
     private View rootView;
-    private Text textView;
+    private TextView textView;
 
     public Fragment01() {
         // Required empty public constructor

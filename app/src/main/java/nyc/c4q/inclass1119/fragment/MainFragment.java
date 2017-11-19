@@ -37,7 +37,7 @@ public class MainFragment extends Fragment {
         Button button04 = (Button) rootView.findViewById(R.id.button4);
         Button button05 = (Button) rootView.findViewById(R.id.button5);
 
-        editText = (EditText) rootView.findViewById(R.id.main_fragment_edittext)
+        editText = (EditText) rootView.findViewById(R.id.main_fragment_edittext);
 
 
         button01.setOnClickListener(new View.OnClickListener() {
