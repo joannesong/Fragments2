@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:layout_gravity="center"
+    android:gravity="center"
     tools:context="nyc.c4q.inclass1119.fragment.MainFragment">
 
    <EditText
